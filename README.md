@@ -16,3 +16,21 @@
 ## Screenshot of surface
 
 ![image](https://user-images.githubusercontent.com/94253815/152696144-37f3002a-1fbe-4d23-b2ca-9b155df09554.png)
+
+
+Screenshot of the printed list of dictionary items:
+
+![image](https://user-images.githubusercontent.com/94253815/152696203-79443d50-1ca2-433e-97e7-a3a580b11608.png)
+
+Pictures of the different hemisphere of Mars:
+
+# Cerberus:
+
+
+# Schiaparelli
+
+
+# Syrtis Major
+
+
+# Valles Marineris
