@@ -31,8 +31,11 @@ Pictures of the different hemisphere of Mars:
 
 # Schiaparelli
 
+![image](https://user-images.githubusercontent.com/94253815/152696406-bf951a69-4072-4f6e-b1d4-4bda0d129eec.png)
+
 
 # Syrtis Major
+
 
 
 # Valles Marineris
