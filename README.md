@@ -36,6 +36,7 @@ Pictures of the different hemisphere of Mars:
 
 # Syrtis Major
 
+![image](https://user-images.githubusercontent.com/94253815/152696492-996efd8e-0d67-41cb-b081-a0c5ad0c572e.png)
 
 
 # Valles Marineris
